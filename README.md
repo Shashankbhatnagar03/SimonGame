@@ -1,11 +1,11 @@
 
-<p align="center">
- <img width="676" alt="simon game" src="https://user-images.githubusercontent.com/92644540/232314536-bb22ea88-2da7-4975-a832-718967f7cd79.png">
 
-</p>
 # Simon Game
 The Simon Game is a classic electronic memory game where the player must remember and repeat a sequence of colored buttons. This project is a web-based version of the game, created using JavaScript.
 
+<p align="center">
+ <img width="676"  alt="simon game" src="https://user-images.githubusercontent.com/92644540/232314536-bb22ea88-2da7-4975-a832-718967f7cd79.png">
+</p>
 
 ## How to Play
 
