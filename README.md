@@ -1,4 +1,6 @@
+# Wanna Play!
 
+## Visit: https://shashankbhatnagar03.github.io/SimonGame/
 
 # Simon Game
 The Simon Game is a classic electronic memory game where the player must remember and repeat a sequence of colored buttons. This project is a web-based version of the game, created using JavaScript.
